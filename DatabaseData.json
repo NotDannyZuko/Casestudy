@@ -1,6 +1,7 @@
 [
   {
     "Id": "1",
+    "BrandId": "1",
     "ProductName": "10 Piece POP Container Set",
     "GraphicName": "OXO",
     "CostPrice": "20.00",
@@ -11,6 +12,7 @@
   },
   {
     "Id": "2",
+    "BrandId": "1",
     "ProductName": "Salad Spinner",
     "GraphicName": "OXO",
     "CostPrice": "5.37",
@@ -21,6 +23,7 @@
   },
   {
     "Id": "3",
+    "BrandId": "1",
     "ProductName": "Good Grips Kitchen Scissors",
     "GraphicName": "OXO",
     "CostPrice": "2.25",
@@ -31,6 +34,7 @@
   },
   {
     "Id": "4",
+    "BrandId": "1",
     "ProductName": "Silicone Flex Turner",
     "GraphicName": "OXO",
     "CostPrice": "4.57",
@@ -41,6 +45,7 @@
   },
   {
     "Id": "5",
+    "BrandId": "1",
     "ProductName": "9-Inch Tongs with Nylon Heads",
     "GraphicName": "OXO",
     "CostPrice": "4.94",
@@ -51,6 +56,7 @@
   },
   {
     "Id": "6",
+    "BrandId": "2",
     "ProductName": "Detachable Milk Frother",
     "GraphicName": "Secura",
     "CostPrice": "20.64",
@@ -61,6 +67,7 @@
   },
   {
     "Id": "7",
+    "BrandId": "2",
     "ProductName": "French Press Coffee Maker",
     "GraphicName": "Secura",
     "CostPrice": "13.55",
@@ -71,6 +78,7 @@
   },
   {
     "Id": "8",
+    "BrandId": "2",
     "ProductName": "Electric Wine Opener",
     "GraphicName": "Secura",
     "CostPrice": "24.99",
@@ -81,6 +89,7 @@
   },
   {
     "Id": "9",
+    "BrandId": "2",
     "ProductName": "Air Fryer XL",
     "GraphicName": "Secura",
     "CostPrice": "40.01",
@@ -91,6 +100,7 @@
   },
   {
     "Id": "10",
+    "BrandId": "2",
     "ProductName": "Electric Kettle",
     "GraphicName": "Secura",
     "CostPrice": "43.97",
@@ -101,6 +111,7 @@
   },
   {
     "Id": "11",
+    "BrandId": "3",
     "ProductName": "Aztec Decanter",
     "GraphicName": "Fith and Vermouth",
     "CostPrice": "55.72",
@@ -111,6 +122,7 @@
   },
   {
     "Id": "12",
+    "BrandId": "3",
     "ProductName": "Aztec Double Rocks Glass Sets",
     "GraphicName": "Fith and Vermouth",
     "CostPrice": "13.47",
@@ -121,6 +133,7 @@
   },
   {
     "Id": "13",
+    "BrandId": "3",
     "ProductName": "Boston Shaker Set",
     "GraphicName": "Fith and Vermouth",
     "CostPrice": "5.78",
@@ -131,6 +144,7 @@
   },
   {
     "Id": "14",
+    "BrandId": "3",
     "ProductName": "St. George Strainer",
     "GraphicName": "Fith and Vermouth",
     "CostPrice": "3.25",
@@ -141,6 +155,7 @@
   },
   {
     "Id": "15",
+    "BrandId": "3",
     "ProductName": "Stainless Steel Kamakura Japanese Jigger",
     "GraphicName": "Fith and Vermouth",
     "CostPrice": "3.89",
